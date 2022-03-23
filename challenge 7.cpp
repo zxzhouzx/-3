@@ -10,7 +10,7 @@ int main()
 {
 	int Iint[1000];
 	int i,j,n,a;
-	printf("¿¼ÉúÊıÁ¿:");
+	printf("è€ƒç”Ÿæ•°é‡:");
 	scanf("%d",&a);
 	for (i = 0; i < a; i++)
 	{
